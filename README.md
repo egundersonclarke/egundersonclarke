@@ -1,10 +1,11 @@
+#About me
+
 - 👋 Hi, I’m @egundersonclarke
 - 👀 I’m interested in coding for management of fisheries data.
-- 🌱 I’m currently learning C, R, Python.
-- 💞️ I’m looking to collaborate on *check this space.*
-- 📫 How to reach me egundersonclarke@nwifc.org
+- 🌱 I’m currently learning R and Python.
+- 📫 How to reach me: egundersonclarke@nwifc.org
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I can shear a sheep, spin the fleece into yarn, and knit a sweater for that poor naked sheep...
+- Spare time looks like gardening, knitting, reef and beekeeping, backpacking, traveling and scuba diving or planning to do one or more of those things. 
 
 <!---
 egundersonclarke/egundersonclarke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
